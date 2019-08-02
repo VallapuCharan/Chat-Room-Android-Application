@@ -3,32 +3,32 @@
     "project_number": "270875137290",
     "firebase_url": "https://homework06-3eec0.firebaseio.com",
     "project_id": "homework06-3eec0",
-    "storage_bucket": "homework06-3eec0.appspot.com"
+    "storage_bucket": "homework06-3eec0..com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:270875137290:android:0f0d1014039f663f",
+        "mobilesdk_app_id": "1:27137290:",
         "android_client_info": {
           "package_name": "com.mad.group15_hw06"
         }
       },
       "oauth_client": [
         {
-          "client_id": "270875137290-taofk4um8d8o6aaj12ppbo2dh194kuoj.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBLoEUcknuOE5GbH8jxo3njL-gsCaD7ZvY"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "270875137290-taofk4um8d8o6aaj12ppbo2dh194kuoj.apps.googleusercontent.com",
+              "client_id": "270875137290-leusercontent.com",
               "client_type": 3
             }
           ]
