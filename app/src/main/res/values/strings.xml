@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Group15_HW06</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="message" />
+    <string name="name" />
+</resources>
